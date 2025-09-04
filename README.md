@@ -8,6 +8,9 @@ My name is Muhammad Mohib, I am an **_19 year old Computer Science student_**  w
 - Cricket
 <br/>
 1. Ordered list
-2. Mathematics
-3. English
-4. Science
+<br/>
+3. Mathematics
+<br/>
+5.  English
+<br/>
+7.   Science
