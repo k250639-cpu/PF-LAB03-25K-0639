@@ -1,3 +1,5 @@
-Muhammad Mohib
-BS Computer Science
+**Muhammad Mohib**
+<br/>
+_BS Computer Science_
+<br/>
 Cooking
