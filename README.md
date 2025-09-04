@@ -9,8 +9,8 @@ My name is Muhammad Mohib, I am an **_19 year old Computer Science student_**  w
 <br/>
 1. Ordered list
 <br/>
-3. Mathematics
+2. Mathematics
 <br/>
-5.  English
+3.  English
 <br/>
-7.   Science
+4.  Science
